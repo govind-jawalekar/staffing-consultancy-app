@@ -1,0 +1,30 @@
+.page-title {
+  font-weight: 800;
+}
+
+.job-card {
+  border-radius: 16px;
+}
+
+.table td, .table th {
+  vertical-align: middle;
+}
+
+.icon-btn {
+  border: none;
+  background: transparent;
+  padding: 4px;
+  cursor: pointer;
+}
+
+.icon-btn.edit {
+  color: #6c757d;
+}
+
+.icon-btn.delete {
+  color: #dc3545;
+}
+
+.modal-content {
+  border-radius: 16px;
+}
